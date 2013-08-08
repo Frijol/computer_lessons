@@ -1,7 +1,7 @@
 computer_lessons
 ================
 
-Computers The Way Your Kids Use Them 3: Devices
+<b>Computers The Way Your Kids Use Them 3: Devices</b>
 
 *Note: This lesson refers to printer troubles. If you don't have any of those at the moment, well, good. But go ahead and follow along- most of the lesson will actually be easier if nothing is broken.
 
@@ -29,6 +29,7 @@ There should also be "Printers" in the list of devices. Click on that and see if
 
 
 Okay, so that was interesting but probably didn't fix anything.
+
 Honestly, the next step is largely floundering around, but here are some directions to try:
 
 Have you gotten an error code at any point? Copy the error code number if there is one or the exact text of the error (in quotation marks) into Google. See what you learn.
