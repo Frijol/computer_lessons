@@ -12,5 +12,3 @@ Find Microsoft Office training courses for the version of Word you have through 
 Find three separate tutorials for how to make a table of contents for your version of Word. One should be on the Microsoft Office site, one on YouTube, and another from another separate site. Send me the links.
 
 Using one of the three tutorials or some other method, create a table of contents in Microsoft Word.
-
-Turn in: document with table of contents
