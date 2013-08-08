@@ -1,7 +1,7 @@
 computer_lessons
 ================
 
-Computers The Way Your Kids Use Them: Introduction
+<b>Computers The Way Your Kids Use Them: Introduction</b>
 
 I made this short series of lessons for my mother, who I think is a decent benchmark for a fairly average computer user:
 Before this, she knew how to use all the basics of the computer, browse the web, normal uses of Office, etc.
