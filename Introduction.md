@@ -27,3 +27,4 @@ I know git isn't really the appropriate place for these lessons, but I couldn't 
 However, since they are here, I'd love to see people fork, revise, and add to the lessons.
 My hope is that you can pass them along to anyone else who might find them useful.
 
+Note: My mom uses Microsoft Office, so that's how the lessons are written.
