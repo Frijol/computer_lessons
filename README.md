@@ -23,8 +23,7 @@ At first, the assignments came back with "I coudn't figure this part out" or "I 
 But by the end of just a few assignments, it was more on the order of "I didn't get this, so I looked it up".
 She even fixed her own printer!
 
-I know git isn't really the appropriate place for these lessons, but I couldn't think where they belonged.
-However, since they are here, I'd love to see people fork, revise, and add to the lessons.
+I'd love to see people fork, revise, and add to the lessons.
 My hope is that you can pass them along to anyone else who might find them useful.
 
 Note: My mom uses Microsoft Office, so that's how the lessons are written.
