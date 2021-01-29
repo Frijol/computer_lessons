@@ -11,7 +11,7 @@ This week's lesson is a treasure hunt. In a word document, do each of these thin
 Import an image from your photo collection.<br />
 Import a diagram, e.g. a color wheel or a free body diagram from Google Images.<br />
 Import a clip art image of a cat through Word's native features.<br />
-Copy and paste all of the text from http://pub.psi.cc/ihnmaims.txt into your document, and arrange your images so they are interspersed with the text.<br />
+Copy and paste all of the text from [http://pub.psi.cc/ihnmaims.txt](https://web.archive.org/web/20130730034312/http://pub.psi.cc/ihnmaims.txt) into your document, and arrange your images so they are interspersed with the text.<br />
 Try all the different functions of text wrapping with all the different images.<br />
 In particular, wrap "tight" with the clip art image.<br />
 For your diagram, find and use the "remove background" feature.<br />
